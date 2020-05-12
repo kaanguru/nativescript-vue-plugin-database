@@ -3,7 +3,7 @@ Here you can get information on vue plug-ins compatibility with nativescript-vue
 
 :ok:
 
-## OK List 
+## Tested OK List 
 *Plug-ins and packages*  which install and run flawlessly on an out-of-the-box nativescript-vue installation 
 1. [date-fns](https://date-fns.org/) Display time / date / age
 1. [axios](https://github.com/axios/axios) Promise based HTTP client
@@ -18,7 +18,7 @@ Here you can get information on vue plug-ins compatibility with nativescript-vue
 
 :thumbsdown: Only *{N}* nativescript plugins will work for  *Overlay / modal / alert / dialog / lightbox / popup*
 
-## NOT SUPPORTED List
+## NOT even tested but UN-SUPPORTED List
 Plug-ins and packages  which are tied to the browsers DOM and CSS
 * All UI Components _Tables / data grids_
 * All Notification Plug-ins and packages _Toaster / snackbar — Notify the user with a modeless temporary little popup_ like sweetalert
