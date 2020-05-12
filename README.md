@@ -6,12 +6,13 @@ Here you can get information on vue plug-ins compatibility with nativescript-vue
 ## OK List 
 *Plug-ins and packages*  which install and run flawlessly on an out-of-the-box nativescript-vue installation 
 1. [date-fns](https://date-fns.org/) Display time / date / age
-2. [axios](https://github.com/axios/axios) Promise based HTTP client
-3. [lodash](https://lodash.com/) Lodash modular utilities.
-4. [vue-apollo](https://github.com/Akryum/vue-apollo#readme) Use Apollo and GraphQL with Vue.js
-5. [title-case](https://github.com/blakeembrey/change-case) Transform a string into title case following English rules
-6. [vuex](https://github.com/vuejs/vuex#readme) state management for Vue.js
-
+1. [axios](https://github.com/axios/axios) Promise based HTTP client
+1. [lodash](https://lodash.com/) Lodash modular utilities.
+1. [vue-apollo](https://github.com/Akryum/vue-apollo#readme) Use Apollo and GraphQL with Vue.js
+1. [title-case](https://github.com/blakeembrey/change-case) Transform a string into title case following English rules
+1. [vuex](https://github.com/vuejs/vuex#readme) state management for Vue.js
+1. [vue-lodash](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
+1. [vue-ramda](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
 ------
 
 :thumbsdown:
