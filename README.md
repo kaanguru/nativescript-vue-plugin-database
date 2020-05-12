@@ -13,11 +13,10 @@ Here you can get information on vue plug-ins compatibility with nativescript-vue
 1. [vuex](https://github.com/vuejs/vuex#readme) state management for Vue.js
 1. [vue-lodash](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 1. [vue-ramda](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
+
 ------
 
-:thumbsdown:
-
-Only *{N}* nativescript plugins will work for  *Overlay / modal / alert / dialog / lightbox / popup*
+:thumbsdown: Only *{N}* nativescript plugins will work for  *Overlay / modal / alert / dialog / lightbox / popup*
 
 ## NOT SUPPORTED List
 Plug-ins and packages  which are tied to the browsers DOM and CSS
