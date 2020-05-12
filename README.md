@@ -1,6 +1,8 @@
 # nativescript-vue-plugin-database
 Here you can get information on vue plug-ins compatibility with nativescript-vue
+
 :ok:
+
 ## OK List 
 Plug-ins and packages  which install and run flawlessly on an out-of-the-box nativescript-vue installation 
 1. [date-fns](https://date-fns.org/) Display time / date / age
@@ -8,8 +10,10 @@ Plug-ins and packages  which install and run flawlessly on an out-of-the-box nat
 3. [lodash](https://lodash.com/) Lodash modular utilities.
 4. [vue-apollo](https://github.com/Akryum/vue-apollo#readme) Use Apollo and GraphQL with Vue.js
 5. [title-case](https://github.com/blakeembrey/change-case) Transform a string into title case following English rules
+6. [vuex](https://github.com/vuejs/vuex#readme) state management for Vue.js
 
 ------
+
 :thumbsdown:
 
 ## NOT SUPPORTED List
