@@ -30,3 +30,10 @@ Plug-ins and packages  which are tied to the browsers DOM and CSS
 - [vue-js-modal](https://github.com/euvl/vue-js-modal) - Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal with 0 dependencies.
 - [vue-image-lightbox](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 - [vue2-simplert](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
+
+------
+
+:thumbsdown:
+
+## TESTED UN-SUPPORTED List
+- [vue-async-operations](https://github.com/devstark-com/vue-async-operations#readme) - Managing async operations statuses in your Vue components
