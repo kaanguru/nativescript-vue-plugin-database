@@ -10,6 +10,7 @@ Tested OK List
 
 *Plug-ins and packages*  which install and run flawlessly on an out-of-the-box nativescript-vue installation 
 1. [date-fns](https://date-fns.org/) Display time / date / age
+1. [vuelidate](https://vuelidate.js.org) Simple, lightweight model-based validation for Vue.js 2.0 [Example Playground](https://play.nativescript.org/?template=play-vue&id=dUHXzQ)
 1. [nativescript-http](https://github.com/klippa-app/nativescript-http) 🚀 The best way to do HTTP requests in NativeScript 🚀
 1. [axios](https://github.com/axios/axios) Promise based HTTP client
 1. [lodash](https://lodash.com/) Lodash modular utilities.
