@@ -19,6 +19,7 @@ Tested OK List
 1. [vuex](https://github.com/vuejs/vuex#readme) state management for Vue.js
 1. [vue-lodash](https://github.com/Ewocker/vue-lodash) - A simple wrapper for integrating lodash to Vue 2.
 1. [vue-ramda](https://github.com/choufeng/vue-ramda) - Vue Wrapper for [ramda](http://ramdajs.com/)
+1. [Localize](https://github.com/EddyVerbruggen/nativescript-localize#vue) - NativeScript Internationalization i18n
 
 ------
 
